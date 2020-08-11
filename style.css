@@ -1,0 +1,11 @@
+#main_background {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+}
+
+body{
+  background-color: red;
+  background-size: 100%;
+}
